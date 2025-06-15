@@ -1,6 +1,11 @@
 # How to activate Windows 10
 ## You Need To Know Your Edition then find your edition product key 
 
+All in one step
+```
+irm https://get.activated.win | iex
+```
+
 HERE The Product Key Link
 ```
 https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys
